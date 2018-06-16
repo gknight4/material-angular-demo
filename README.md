@@ -2,7 +2,7 @@
 
 to run:
 
-First, install node.js, and npm, and then Angular / CLI:
+First, install node.js, and npm, and then Angular / CLI:\
 npm i -g @angular/cli
 
 then, either download and unzip, or:\
