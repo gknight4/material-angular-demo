@@ -8,7 +8,7 @@ npm i -g @angular/cli
 then, either download and unzip, or:\
 git clone https://github.com/gknight4/material-angular-demo
 
-then, in the directory with package.json:\n
+then, in the directory with package.json:\
 npm i\
 ng serve
 
