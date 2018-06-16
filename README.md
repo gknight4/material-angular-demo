@@ -1,3 +1,22 @@
+*Simple* Angular Materials Demo
+
+to run:
+
+First, install node.js, and npm, and then Angular / CLI:
+npm i -g @angular/cli
+
+then, either download and unzip, or:\
+git clone https://github.com/gknight4/material-angular-demo
+
+then, in the directory with package.json:\n
+npm i\
+ng serve
+
+and point your browser at:\
+localhost:4200
+
+This is the readme that was left by Angular CLI:
+
 # Postop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
